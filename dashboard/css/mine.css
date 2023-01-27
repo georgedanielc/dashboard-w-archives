@@ -1,0 +1,89 @@
+table{
+	border-collapse: collapse;
+    width: 100%;
+	border: solid 1px #DDEEEE;
+
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){background-color: #f8f6ff}
+
+th {
+    background-color: #6c7ae0;
+    color: white;
+
+}
+th:first-child{
+	 border-radius: 7px 0 0 0;
+}
+th:last-child{
+	 border-radius: 0 7px 0 0;
+}
+
+.button-addproducts{
+	
+	padding-bottom:5px;
+    float:right;
+	
+}
+
+.button-print{
+	
+	padding-bottom:5px;
+    float:right;
+	margin-right:12px;
+	
+}
+.button-search{
+	
+	width: 400px;
+	
+}
+
+#margin-time{
+	margin-left:109px;
+	margin-top: -10px;
+}
+
+.search-name{
+	margin-top: -25px;
+	
+}
+.products-add-info{
+	margin-left: 275px;
+	width: 500px;
+
+	height: 100%;
+	
+}
+.form-padding{
+	padding: 5px;
+ 
+	
+}
+
+.btn-addproducts{
+	margin-top: 10px;
+	float: right;
+	
+	
+}
+
+.btn-cancel{
+	margin-top: 10px;
+	float: right;
+	margin-right: 10px;
+	
+	
+}
+
+.picture{
+padding: 50px;
+	float:center;
+	margin-left: 300px;
+	
+}
+
+
